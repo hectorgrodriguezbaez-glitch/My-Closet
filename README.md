@@ -1,2 +1,3 @@
-# My-Closet
-A Virtual Closet
+# My Closet
+
+Closet virtual personal para iOS y web.
